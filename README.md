@@ -45,30 +45,11 @@ This project demonstrates how Microsoft Excel can be used for business intellige
 
 ---
 
-## 📂 Project Structure
 
-```bash
-HR-Data-Analysis-Dashboard/
-│
-├── Dataset/
-├── Dashboard/
-├── Screenshots/
-├── README.md
-└── HR_Dashboard.xlsx
-```
 
----
 
-## 🖼️ Dashboard Preview
-(Add dashboard screenshots here)
 
-Example:
 
-```markdown
-![Dashboard Screenshot](Screenshots/dashboard.png)
-```
-
----
 
 ## 🚀 How to Use
 1. Download the project files
